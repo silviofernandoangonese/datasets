@@ -1,0 +1,4579 @@
+{
+  "nodes": [
+    {
+      "id": "X5 - 0",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "X5"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB89B93DF60>"
+    },
+    {
+      "id": "Corolla - 1",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Corolla"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB89B93ECB0>"
+    },
+    {
+      "id": "Daisy II - 2",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "redbone"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB89B93EA10>"
+    },
+    {
+      "id": "Rocky III - 3",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "retriever-curly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC520>"
+    },
+    {
+      "id": "Corolla - 4",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Corolla"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CED3C0>"
+    },
+    {
+      "id": "Molly III - 5",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "segugio-italian"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC0D0>"
+    },
+    {
+      "id": "Sadie II - 6",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "tervuren"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC8E0>"
+    },
+    {
+      "id": "Charlie IV - 7",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "schipperke"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CED330>"
+    },
+    {
+      "id": "Tucson - 8",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Tucson"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CECCD0>"
+    },
+    {
+      "id": "Max IV - 9",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "terrier-lakeland"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEDCF0>"
+    },
+    {
+      "id": "Karen",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Single",
+        "46 Years Old",
+        "Adult",
+        "Blonde",
+        "Teacher",
+        "Technology",
+        "Master Degree",
+        "Caucasian",
+        "Rural",
+        "Active",
+        "Cooking",
+        "Mediterranean",
+        "Conservative",
+        "Action",
+        "Beach",
+        "Baseball",
+        "French",
+        "Classical",
+        "Allergies",
+        "Vintage",
+        "Monthly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Molly IV - 11",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "kombai"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CED7B0>"
+    },
+    {
+      "id": "Altima - 12",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Altima"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEDA80>"
+    },
+    {
+      "id": "Richard",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Single",
+        "27 Years Old",
+        "Young Adult",
+        "Brunette",
+        "Engineer",
+        "Music",
+        "Master Degree",
+        "Asian",
+        "Rural",
+        "Relaxed",
+        "Gardening",
+        "Italian",
+        "Conservative",
+        "Drama",
+        "Beach",
+        "Soccer",
+        "English",
+        "Rock",
+        "Hypertension",
+        "Formal",
+        "Rarely"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Coco Jr. - 14",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "spaniel-sussex"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEED10>"
+    },
+    {
+      "id": "Santa Fe - 15",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Santa Fe"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC370>"
+    },
+    {
+      "id": "Molly II - 16",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "shihtzu"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEDC30>"
+    },
+    {
+      "id": "Daisy Jr. - 17",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "danish-swedish-farmdog"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CED120>"
+    },
+    {
+      "id": "Max II - 18",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "schipperke"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF7C0>"
+    },
+    {
+      "id": "Renee",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Married",
+        "50 Years Old",
+        "Adult",
+        "Blonde",
+        "Engineer",
+        "Technology",
+        "Bachelor Degree",
+        "Hispanic",
+        "Rural",
+        "Active",
+        "Reading",
+        "Italian",
+        "Conservative",
+        "Sci-Fi",
+        "Beach",
+        "Football",
+        "Mandarin",
+        "Classical",
+        "Allergies",
+        "Vintage",
+        "Rarely"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Lance",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Single",
+        "29 Years Old",
+        "Young Adult",
+        "Brunette",
+        "Kids",
+        "Teacher",
+        "Music",
+        "Ph.D.",
+        "African American",
+        "Suburban",
+        "Sedentary",
+        "Cooking",
+        "Italian",
+        "Liberal",
+        "Sci-Fi",
+        "Countryside",
+        "Baseball",
+        "Mandarin",
+        "Classical",
+        "Hypertension",
+        "Casual",
+        "Rarely"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Spike IV - 21",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "labrador"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC9D0>"
+    },
+    {
+      "id": "Todd",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Married",
+        "21 Years Old",
+        "Young Adult",
+        "Brunette",
+        "Pets",
+        "Teacher",
+        "Travel",
+        "Bachelor Degree",
+        "African American",
+        "Suburban",
+        "Sedentary",
+        "Painting",
+        "Italian",
+        "Liberal",
+        "Drama",
+        "City",
+        "Football",
+        "Spanish",
+        "Hip Hop",
+        "Diabetes",
+        "Bohemian",
+        "Weekly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Jason",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Married",
+        "77 Years Old",
+        "Senior Citizen",
+        "Black",
+        "Engineer",
+        "Sports",
+        "Master Degree",
+        "Caucasian",
+        "Rural",
+        "Relaxed",
+        "Painting",
+        "Mediterranean",
+        "Conservative",
+        "Drama",
+        "Countryside",
+        "Basketball",
+        "Spanish",
+        "Pop",
+        "Hypertension",
+        "Casual",
+        "Rarely"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Emily",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Married",
+        "24 Years Old",
+        "Young Adult",
+        "Brunette",
+        "Kids",
+        "Engineer",
+        "Technology",
+        "Master Degree",
+        "Hispanic",
+        "Suburban",
+        "Adventurous",
+        "Reading",
+        "Asian",
+        "Conservative",
+        "Drama",
+        "Countryside",
+        "Baseball",
+        "English",
+        "Pop",
+        "Allergies",
+        "Vintage",
+        "Rarely"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "A4 - 25",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "A4"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF310>"
+    },
+    {
+      "id": "Christina",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Married",
+        "32 Years Old",
+        "Young Adult",
+        "Black",
+        "Engineer",
+        "Travel",
+        "Ph.D.",
+        "Asian",
+        "Suburban",
+        "Relaxed",
+        "Reading",
+        "Mexican",
+        "Liberal",
+        "Drama",
+        "Beach",
+        "Soccer",
+        "English",
+        "Hip Hop",
+        "Allergies",
+        "Casual",
+        "Rarely"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Milo - 27",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "shihtzu"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF640>"
+    },
+    {
+      "id": "Daisy Jr. - 28",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "appenzeller"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CED8A0>"
+    },
+    {
+      "id": "Molly II - 29",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "elkhound-norwegian"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC250>"
+    },
+    {
+      "id": "Rachael",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Single",
+        "26 Years Old",
+        "Young Adult",
+        "Black",
+        "Pets",
+        "Artist",
+        "Technology",
+        "Master Degree",
+        "Caucasian",
+        "Urban",
+        "Sedentary",
+        "Reading",
+        "Asian",
+        "Moderate",
+        "Comedy",
+        "City",
+        "Soccer",
+        "French",
+        "Pop",
+        "Allergies",
+        "Formal",
+        "Monthly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Jeffrey",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Single",
+        "39 Years Old",
+        "Young Adult",
+        "Black",
+        "Kids",
+        "Engineer",
+        "Travel",
+        "Ph.D.",
+        "Caucasian",
+        "Rural",
+        "Active",
+        "Gardening",
+        "Mexican",
+        "Moderate",
+        "Drama",
+        "Beach",
+        "Baseball",
+        "French",
+        "Classical",
+        "Allergies",
+        "Bohemian",
+        "Rarely"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Joseph",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Married",
+        "76 Years Old",
+        "Senior Citizen",
+        "Red",
+        "Doctor",
+        "Music",
+        "Bachelor Degree",
+        "Asian",
+        "Suburban",
+        "Active",
+        "Painting",
+        "Mexican",
+        "Moderate",
+        "Drama",
+        "Beach",
+        "Soccer",
+        "French",
+        "Pop",
+        "Hypertension",
+        "Vintage",
+        "Monthly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Marilyn",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Married",
+        "54 Years Old",
+        "Adult",
+        "Black",
+        "Pets",
+        "Engineer",
+        "Music",
+        "Bachelor Degree",
+        "Asian",
+        "Suburban",
+        "Relaxed",
+        "Reading",
+        "Mediterranean",
+        "Liberal",
+        "Comedy",
+        "Mountains",
+        "Basketball",
+        "Spanish",
+        "Hip Hop",
+        "Hypertension",
+        "Vintage",
+        "Rarely"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Accord - 34",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Accord"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC1C0>"
+    },
+    {
+      "id": "Daisy IV - 35",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "spaniel-japanese"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF520>"
+    },
+    {
+      "id": "Tracy",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Single",
+        "55 Years Old",
+        "Adult",
+        "Black",
+        "Teacher",
+        "Travel",
+        "Master Degree",
+        "Hispanic",
+        "Rural",
+        "Active",
+        "Painting",
+        "Italian",
+        "Moderate",
+        "Sci-Fi",
+        "Countryside",
+        "Soccer",
+        "English",
+        "Pop",
+        "Allergies",
+        "Formal",
+        "Monthly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Maxima - 37",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Maxima"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CECA00>"
+    },
+    {
+      "id": "Cruze - 38",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Cruze"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEE290>"
+    },
+    {
+      "id": "Spike III - 39",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "african"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEFA60>"
+    },
+    {
+      "id": "Camry - 40",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Camry"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEFBE0>"
+    },
+    {
+      "id": "John",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Single",
+        "37 Years Old",
+        "Young Adult",
+        "Brunette",
+        "Teacher",
+        "Technology",
+        "Master Degree",
+        "Asian",
+        "Suburban",
+        "Sedentary",
+        "Painting",
+        "Italian",
+        "Conservative",
+        "Action",
+        "Mountains",
+        "Football",
+        "English",
+        "Pop",
+        "Allergies",
+        "Bohemian",
+        "Weekly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Luna Jr. - 42",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "spaniel-welsh"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF9D0>"
+    },
+    {
+      "id": "Passat - 44",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Passat"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEFA30>"
+    },
+    {
+      "id": "Molly IV - 45",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "havanese"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEEFB0>"
+    },
+    {
+      "id": "Spike Jr. - 46",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "spaniel-japanese"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CECA60>"
+    },
+    {
+      "id": "Scott",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Married",
+        "67 Years Old",
+        "Senior Citizen",
+        "Brunette",
+        "Kids",
+        "Teacher",
+        "Sports",
+        "Bachelor Degree",
+        "Caucasian",
+        "Suburban",
+        "Adventurous",
+        "Painting",
+        "Italian",
+        "Conservative",
+        "Sci-Fi",
+        "Mountains",
+        "Football",
+        "English",
+        "Rock",
+        "Asthma",
+        "Formal",
+        "Weekly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Susan",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Single",
+        "28 Years Old",
+        "Young Adult",
+        "Blonde",
+        "Artist",
+        "Travel",
+        "Master Degree",
+        "Caucasian",
+        "Urban",
+        "Active",
+        "Reading",
+        "Asian",
+        "Moderate",
+        "Drama",
+        "Countryside",
+        "Basketball",
+        "English",
+        "Classical",
+        "Allergies",
+        "Formal",
+        "Daily"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Buddy III - 49",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "sheepdog-shetland"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC670>"
+    },
+    {
+      "id": "Spike Jr. - 50",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "hound-english"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEFAF0>"
+    },
+    {
+      "id": "Corolla - 51",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Corolla"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEDCC0>"
+    },
+    {
+      "id": "Luna IV - 52",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "chihuahua"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEE710>"
+    },
+    {
+      "id": "Max III - 53",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "poodle-toy"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEEFE0>"
+    },
+    {
+      "id": "Rocky IV - 54",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "akita"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF5E0>"
+    },
+    {
+      "id": "Rocky II - 55",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "setter-irish"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CECC70>"
+    },
+    {
+      "id": "X5 - 56",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "X5"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CED420>"
+    },
+    {
+      "id": "Molly II - 57",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "mountain-swiss"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEE9B0>"
+    },
+    {
+      "id": "Charlie II - 58",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "mastiff-bull"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEEA70>"
+    },
+    {
+      "id": "Buddy II - 59",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "mountain-bernese"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF8E0>"
+    },
+    {
+      "id": "Molly III - 60",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "terrier-welsh"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC6A0>"
+    },
+    {
+      "id": "Mercedes-Benz E-Class - 61",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Mercedes-Benz E-Class"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CED750>"
+    },
+    {
+      "id": "Max - 62",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "pyrenees"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEE170>"
+    },
+    {
+      "id": "BMW 5 Series - 63",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "BMW 5 Series"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF850>"
+    },
+    {
+      "id": "A4 - 64",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "A4"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEFA00>"
+    },
+    {
+      "id": "F-150 - 65",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "F-150"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEE920>"
+    },
+    {
+      "id": "Patrick",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Single",
+        "75 Years Old",
+        "Senior Citizen",
+        "Red",
+        "Doctor",
+        "Technology",
+        "Ph.D.",
+        "African American",
+        "Urban",
+        "Active",
+        "Painting",
+        "Italian",
+        "Conservative",
+        "Action",
+        "Mountains",
+        "Baseball",
+        "French",
+        "Rock",
+        "Diabetes",
+        "Vintage",
+        "Daily"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Melissa",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Married",
+        "63 Years Old",
+        "Senior Citizen",
+        "Brunette",
+        "Kids",
+        "Doctor",
+        "Technology",
+        "Bachelor Degree",
+        "Asian",
+        "Suburban",
+        "Sedentary",
+        "Cooking",
+        "Italian",
+        "Moderate",
+        "Drama",
+        "Beach",
+        "Baseball",
+        "Mandarin",
+        "Rock",
+        "Hypertension",
+        "Bohemian",
+        "Daily"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Robert",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Married",
+        "27 Years Old",
+        "Young Adult",
+        "Brunette",
+        "Pets",
+        "Engineer",
+        "Technology",
+        "Ph.D.",
+        "Asian",
+        "Urban",
+        "Adventurous",
+        "Reading",
+        "Mexican",
+        "Liberal",
+        "Comedy",
+        "Countryside",
+        "Football",
+        "French",
+        "Hip Hop",
+        "Hypertension",
+        "Formal",
+        "Weekly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Michael",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Married",
+        "24 Years Old",
+        "Young Adult",
+        "Black",
+        "Pets",
+        "Engineer",
+        "Travel",
+        "Master Degree",
+        "Caucasian",
+        "Rural",
+        "Adventurous",
+        "Gardening",
+        "Asian",
+        "Conservative",
+        "Comedy",
+        "Beach",
+        "Soccer",
+        "Mandarin",
+        "Classical",
+        "Asthma",
+        "Casual",
+        "Weekly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Milo III - 70",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "terrier-russell"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC910>"
+    },
+    {
+      "id": "Accord - 71",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Accord"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEFFD0>"
+    },
+    {
+      "id": "Accord - 72",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Accord"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEE050>"
+    },
+    {
+      "id": "Mustang - 73",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Mustang"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEFD60>"
+    },
+    {
+      "id": "BMW 3 Series - 74",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "BMW 3 Series"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEE8F0>"
+    },
+    {
+      "id": "James",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Single",
+        "55 Years Old",
+        "Adult",
+        "Blonde",
+        "Artist",
+        "Sports",
+        "Ph.D.",
+        "Asian",
+        "Urban",
+        "Adventurous",
+        "Gardening",
+        "Italian",
+        "Moderate",
+        "Sci-Fi",
+        "Countryside",
+        "Basketball",
+        "Mandarin",
+        "Rock",
+        "Diabetes",
+        "Casual",
+        "Rarely"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Malibu - 76",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Malibu"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEE410>"
+    },
+    {
+      "id": "Daisy - 77",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "poodle-medium"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF940>"
+    },
+    {
+      "id": "Molly II - 78",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "spaniel-japanese"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC3D0>"
+    },
+    {
+      "id": "Rebecca",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Married",
+        "25 Years Old",
+        "Young Adult",
+        "Brunette",
+        "Pets",
+        "Teacher",
+        "Technology",
+        "Ph.D.",
+        "Hispanic",
+        "Urban",
+        "Relaxed",
+        "Gardening",
+        "Italian",
+        "Moderate",
+        "Sci-Fi",
+        "Countryside",
+        "Soccer",
+        "Mandarin",
+        "Hip Hop",
+        "Asthma",
+        "Formal",
+        "Weekly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "X5 - 80",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "X5"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC850>"
+    },
+    {
+      "id": "William",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Single",
+        "34 Years Old",
+        "Young Adult",
+        "Brunette",
+        "Kids",
+        "Teacher",
+        "Travel",
+        "Master Degree",
+        "Caucasian",
+        "Rural",
+        "Adventurous",
+        "Cooking",
+        "Mediterranean",
+        "Moderate",
+        "Action",
+        "Countryside",
+        "Soccer",
+        "Mandarin",
+        "Classical",
+        "Allergies",
+        "Bohemian",
+        "Monthly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Luna II - 82",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "wolfhound-irish"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEEB30>"
+    },
+    {
+      "id": "Coco IV - 83",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "mastiff-bull"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEDF30>"
+    },
+    {
+      "id": "Buddy II - 84",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "shiba"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CED8D0>"
+    },
+    {
+      "id": "Kelly",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Married",
+        "60 Years Old",
+        "Senior Citizen",
+        "Black",
+        "Doctor",
+        "Sports",
+        "Master Degree",
+        "Asian",
+        "Suburban",
+        "Active",
+        "Painting",
+        "Mediterranean",
+        "Liberal",
+        "Drama",
+        "Mountains",
+        "Soccer",
+        "French",
+        "Classical",
+        "Asthma",
+        "Vintage",
+        "Monthly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Andrew",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Married",
+        "21 Years Old",
+        "Young Adult",
+        "Black",
+        "Artist",
+        "Technology",
+        "Bachelor Degree",
+        "Asian",
+        "Suburban",
+        "Sedentary",
+        "Painting",
+        "Italian",
+        "Liberal",
+        "Drama",
+        "Countryside",
+        "Baseball",
+        "Spanish",
+        "Rock",
+        "Asthma",
+        "Formal",
+        "Weekly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Austin",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Single",
+        "65 Years Old",
+        "Senior Citizen",
+        "Brunette",
+        "Pets",
+        "Artist",
+        "Music",
+        "Master Degree",
+        "Caucasian",
+        "Rural",
+        "Active",
+        "Reading",
+        "Asian",
+        "Liberal",
+        "Sci-Fi",
+        "Countryside",
+        "Football",
+        "Mandarin",
+        "Pop",
+        "Hypertension",
+        "Vintage",
+        "Monthly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Golf - 88",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Golf"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEFF70>"
+    },
+    {
+      "id": "Denise",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Married",
+        "59 Years Old",
+        "Adult",
+        "Red",
+        "Kids",
+        "Engineer",
+        "Travel",
+        "Bachelor Degree",
+        "Asian",
+        "Rural",
+        "Relaxed",
+        "Cooking",
+        "Mexican",
+        "Moderate",
+        "Comedy",
+        "Countryside",
+        "Soccer",
+        "Spanish",
+        "Classical",
+        "Diabetes",
+        "Casual",
+        "Daily"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "F-150 - 90",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "F-150"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEFBB0>"
+    },
+    {
+      "id": "Altima - 91",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Altima"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CECFA0>"
+    },
+    {
+      "id": "Mercedes-Benz C-Class - 92",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Mercedes-Benz C-Class"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF8B0>"
+    },
+    {
+      "id": "Corolla - 93",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Corolla"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF280>"
+    },
+    {
+      "id": "Megan",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Married",
+        "72 Years Old",
+        "Senior Citizen",
+        "Brunette",
+        "Kids",
+        "Engineer",
+        "Music",
+        "Ph.D.",
+        "Asian",
+        "Urban",
+        "Adventurous",
+        "Reading",
+        "Mediterranean",
+        "Liberal",
+        "Drama",
+        "Mountains",
+        "Soccer",
+        "French",
+        "Pop",
+        "Hypertension",
+        "Vintage",
+        "Weekly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Pamela",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Married",
+        "18 Years Old",
+        "Young Adult",
+        "Brunette",
+        "Kids",
+        "Teacher",
+        "Music",
+        "Bachelor Degree",
+        "Caucasian",
+        "Rural",
+        "Relaxed",
+        "Cooking",
+        "Mediterranean",
+        "Moderate",
+        "Sci-Fi",
+        "Mountains",
+        "Baseball",
+        "French",
+        "Hip Hop",
+        "Diabetes",
+        "Formal",
+        "Monthly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Luna II - 96",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "retriever-golden"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEDAE0>"
+    },
+    {
+      "id": "Linda",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Married",
+        "77 Years Old",
+        "Senior Citizen",
+        "Brunette",
+        "Pets",
+        "Doctor",
+        "Sports",
+        "Ph.D.",
+        "Hispanic",
+        "Rural",
+        "Adventurous",
+        "Reading",
+        "Asian",
+        "Conservative",
+        "Drama",
+        "Countryside",
+        "Baseball",
+        "Mandarin",
+        "Hip Hop",
+        "Diabetes",
+        "Bohemian",
+        "Weekly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Audrey",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Single",
+        "28 Years Old",
+        "Young Adult",
+        "Black",
+        "Kids",
+        "Engineer",
+        "Technology",
+        "Ph.D.",
+        "African American",
+        "Suburban",
+        "Relaxed",
+        "Reading",
+        "Italian",
+        "Liberal",
+        "Comedy",
+        "Beach",
+        "Football",
+        "Spanish",
+        "Hip Hop",
+        "Hypertension",
+        "Vintage",
+        "Weekly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "BMW 5 Series - 99",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "BMW 5 Series"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CED6F0>"
+    },
+    {
+      "id": "Altima - 100",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Altima"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CED450>"
+    },
+    {
+      "id": "Passat - 101",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Passat"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEEE90>"
+    },
+    {
+      "id": "Molly II - 102",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "bulldog-french"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF550>"
+    },
+    {
+      "id": "BMW 3 Series - 103",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "BMW 3 Series"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF0A0>"
+    },
+    {
+      "id": "Mercedes-Benz E-Class - 104",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Mercedes-Benz E-Class"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC940>"
+    },
+    {
+      "id": "Terrance",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Single",
+        "77 Years Old",
+        "Senior Citizen",
+        "Brunette",
+        "Doctor",
+        "Sports",
+        "Master Degree",
+        "Caucasian",
+        "Urban",
+        "Active",
+        "Gardening",
+        "Asian",
+        "Conservative",
+        "Comedy",
+        "Countryside",
+        "Football",
+        "French",
+        "Rock",
+        "Hypertension",
+        "Vintage",
+        "Rarely"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "April",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Single",
+        "78 Years Old",
+        "Senior Citizen",
+        "Brunette",
+        "Pets",
+        "Doctor",
+        "Travel",
+        "Bachelor Degree",
+        "Caucasian",
+        "Urban",
+        "Active",
+        "Cooking",
+        "Mediterranean",
+        "Conservative",
+        "Sci-Fi",
+        "Beach",
+        "Football",
+        "English",
+        "Classical",
+        "Diabetes",
+        "Casual",
+        "Rarely"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Aaron",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Married",
+        "40 Years Old",
+        "Adult",
+        "Brunette",
+        "Pets",
+        "Engineer",
+        "Technology",
+        "Ph.D.",
+        "Asian",
+        "Rural",
+        "Sedentary",
+        "Cooking",
+        "Mexican",
+        "Conservative",
+        "Comedy",
+        "Beach",
+        "Soccer",
+        "Mandarin",
+        "Pop",
+        "Asthma",
+        "Bohemian",
+        "Monthly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Mustang - 108",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Mustang"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEDC60>"
+    },
+    {
+      "id": "Altima - 109",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Altima"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF820>"
+    },
+    {
+      "id": "Golf - 110",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Golf"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF970>"
+    },
+    {
+      "id": "Daisy II - 111",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "greyhound-italian"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEEF80>"
+    },
+    {
+      "id": "Kristen",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Married",
+        "69 Years Old",
+        "Senior Citizen",
+        "Brunette",
+        "Kids",
+        "Doctor",
+        "Music",
+        "Ph.D.",
+        "Caucasian",
+        "Rural",
+        "Active",
+        "Reading",
+        "Italian",
+        "Moderate",
+        "Sci-Fi",
+        "City",
+        "Basketball",
+        "English",
+        "Pop",
+        "Diabetes",
+        "Bohemian",
+        "Daily"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Maxima - 114",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Maxima"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEECB0>"
+    },
+    {
+      "id": "Jonathon",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Married",
+        "73 Years Old",
+        "Senior Citizen",
+        "Red",
+        "Pets",
+        "Teacher",
+        "Technology",
+        "Bachelor Degree",
+        "African American",
+        "Urban",
+        "Relaxed",
+        "Gardening",
+        "Mediterranean",
+        "Conservative",
+        "Drama",
+        "Countryside",
+        "Baseball",
+        "Spanish",
+        "Rock",
+        "Hypertension",
+        "Casual",
+        "Monthly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Sadie IV - 116",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "retriever-chesapeake"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEE3E0>"
+    },
+    {
+      "id": "Nicole",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Single",
+        "43 Years Old",
+        "Adult",
+        "Black",
+        "Engineer",
+        "Travel",
+        "Master Degree",
+        "Hispanic",
+        "Suburban",
+        "Relaxed",
+        "Reading",
+        "Mediterranean",
+        "Conservative",
+        "Drama",
+        "Mountains",
+        "Basketball",
+        "Mandarin",
+        "Pop",
+        "Hypertension",
+        "Formal",
+        "Daily"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "BMW 5 Series - 119",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "BMW 5 Series"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEEE00>"
+    },
+    {
+      "id": "Camry - 120",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Camry"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEFC70>"
+    },
+    {
+      "id": "Bruce",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Married",
+        "35 Years Old",
+        "Young Adult",
+        "Black",
+        "Teacher",
+        "Travel",
+        "Ph.D.",
+        "Hispanic",
+        "Rural",
+        "Relaxed",
+        "Reading",
+        "Italian",
+        "Liberal",
+        "Comedy",
+        "City",
+        "Basketball",
+        "Spanish",
+        "Pop",
+        "Allergies",
+        "Formal",
+        "Weekly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Accord - 123",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Accord"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEEAD0>"
+    },
+    {
+      "id": "Ronald",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Single",
+        "21 Years Old",
+        "Young Adult",
+        "Red",
+        "Teacher",
+        "Music",
+        "Bachelor Degree",
+        "Hispanic",
+        "Rural",
+        "Sedentary",
+        "Gardening",
+        "Mediterranean",
+        "Liberal",
+        "Comedy",
+        "City",
+        "Soccer",
+        "English",
+        "Classical",
+        "Allergies",
+        "Formal",
+        "Daily"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Charlie - 125",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "terrier-scottish"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEFE50>"
+    },
+    {
+      "id": "Mercedes-Benz C-Class - 128",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Mercedes-Benz C-Class"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEFEE0>"
+    },
+    {
+      "id": "Michelle",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Married",
+        "78 Years Old",
+        "Senior Citizen",
+        "Black",
+        "Teacher",
+        "Technology",
+        "Bachelor Degree",
+        "Caucasian",
+        "Suburban",
+        "Relaxed",
+        "Painting",
+        "Asian",
+        "Liberal",
+        "Action",
+        "Mountains",
+        "Baseball",
+        "Mandarin",
+        "Rock",
+        "Asthma",
+        "Vintage",
+        "Monthly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Spike III - 130",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "shiba"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEF250>"
+    },
+    {
+      "id": "BMW 3 Series - 132",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "BMW 3 Series"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEEB00>"
+    },
+    {
+      "id": "Coco Jr. - 133",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "bluetick"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEDEA0>"
+    },
+    {
+      "id": "Malibu - 134",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Malibu"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEFD00>"
+    },
+    {
+      "id": "Luke",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Married",
+        "80 Years Old",
+        "Senior Citizen",
+        "Red",
+        "Pets",
+        "Engineer",
+        "Music",
+        "Bachelor Degree",
+        "Caucasian",
+        "Rural",
+        "Relaxed",
+        "Painting",
+        "Italian",
+        "Moderate",
+        "Comedy",
+        "City",
+        "Basketball",
+        "Mandarin",
+        "Pop",
+        "Hypertension",
+        "Casual",
+        "Monthly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Camry - 136",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Camry"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEE9E0>"
+    },
+    {
+      "id": "Chris",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Male",
+        "Single",
+        "18 Years Old",
+        "Young Adult",
+        "Black",
+        "Teacher",
+        "Music",
+        "Bachelor Degree",
+        "Asian",
+        "Rural",
+        "Relaxed",
+        "Painting",
+        "Mediterranean",
+        "Moderate",
+        "Action",
+        "Mountains",
+        "Baseball",
+        "French",
+        "Rock",
+        "Allergies",
+        "Casual",
+        "Weekly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Luna III - 138",
+      "Type": "Pet",
+      "Data_Type": "Image",
+      "Image_Path": "https://dog.ceo/api/breeds/image/random",
+      "Features": [
+        "terrier-welsh"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CECDF0>"
+    },
+    {
+      "id": "Passat - 139",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Passat"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB898CEC190>"
+    },
+    {
+      "id": "BMW 3 Series - 141",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "BMW 3 Series"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB89BA27550>"
+    },
+    {
+      "id": "Golf - 142",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Golf"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB89BA24DC0>"
+    },
+    {
+      "id": "Santa Fe - 143",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Santa Fe"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB89BA275E0>"
+    },
+    {
+      "id": "Tucson - 144",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Tucson"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB89BA26560>"
+    },
+    {
+      "id": "Golf - 145",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Golf"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB89BA24FD0>"
+    },
+    {
+      "id": "Santa Fe - 146",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Santa Fe"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB89BA26980>"
+    },
+    {
+      "id": "Margaret",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Married",
+        "62 Years Old",
+        "Senior Citizen",
+        "Black",
+        "Kids",
+        "Doctor",
+        "Technology",
+        "Master Degree",
+        "African American",
+        "Urban",
+        "Adventurous",
+        "Cooking",
+        "Mexican",
+        "Liberal",
+        "Action",
+        "Beach",
+        "Football",
+        "French",
+        "Pop",
+        "Diabetes",
+        "Formal",
+        "Daily"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Kathy",
+      "Type": "Person",
+      "Data_Type": "Text",
+      "Image": "None",
+      "Image_Path": "None",
+      "Image_High": "None",
+      "Features": [
+        "Female",
+        "Single",
+        "77 Years Old",
+        "Senior Citizen",
+        "Blonde",
+        "Kids",
+        "Doctor",
+        "Music",
+        "Master Degree",
+        "African American",
+        "Urban",
+        "Sedentary",
+        "Painting",
+        "Italian",
+        "Conservative",
+        "Comedy",
+        "Beach",
+        "Basketball",
+        "English",
+        "Rock",
+        "Diabetes",
+        "Casual",
+        "Monthly"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      }
+    },
+    {
+      "id": "Passat - 149",
+      "Type": "Car",
+      "Data_Type": "Image",
+      "Image_Path": "https://api.unsplash.com/search/photos",
+      "Features": [
+        "Passat"
+      ],
+      "Aggregated": "",
+      "Predicted_Type": "",
+      "Predicted_Cluster": "",
+      "Embedding": {
+        "Features": [],
+        "Metapath": [],
+        "Aggregated": [],
+        "Features_Metapath": [],
+        "Aggregated_Metapath": []
+      },
+      "Image": "<PIL.Image.Image image mode=RGBA size=30x30 at 0x7FB89BA272E0>"
+    }
+  ],
+  "edges": [
+    {
+      "source": "X5 - 0",
+      "target": "Aaron",
+      "Predicted": "False"
+    },
+    {
+      "source": "Corolla - 1",
+      "target": "Jeffrey",
+      "Predicted": "False"
+    },
+    {
+      "source": "Corolla - 1",
+      "target": "John",
+      "Predicted": "False"
+    },
+    {
+      "source": "Daisy II - 2",
+      "target": "Lance",
+      "Predicted": "False"
+    },
+    {
+      "source": "Rocky III - 3",
+      "target": "Jeffrey",
+      "Predicted": "False"
+    },
+    {
+      "source": "Rocky III - 3",
+      "target": "Robert",
+      "Predicted": "False"
+    },
+    {
+      "source": "Corolla - 4",
+      "target": "Christina",
+      "Predicted": "False"
+    },
+    {
+      "source": "Corolla - 4",
+      "target": "Denise",
+      "Predicted": "False"
+    },
+    {
+      "source": "Molly III - 5",
+      "target": "Richard",
+      "Predicted": "False"
+    },
+    {
+      "source": "Sadie II - 6",
+      "target": "Rebecca",
+      "Predicted": "False"
+    },
+    {
+      "source": "Charlie IV - 7",
+      "target": "William",
+      "Predicted": "False"
+    },
+    {
+      "source": "Tucson - 8",
+      "target": "Lance",
+      "Predicted": "False"
+    },
+    {
+      "source": "Tucson - 8",
+      "target": "Luke",
+      "Predicted": "False"
+    },
+    {
+      "source": "Max IV - 9",
+      "target": "Michelle",
+      "Predicted": "False"
+    },
+    {
+      "source": "Karen",
+      "target": "BMW 3 Series - 103",
+      "Predicted": "False"
+    },
+    {
+      "source": "Karen",
+      "target": "Nicole",
+      "Predicted": "False"
+    },
+    {
+      "source": "Karen",
+      "target": "Mercedes-Benz C-Class - 128",
+      "Predicted": "False"
+    },
+    {
+      "source": "Molly IV - 11",
+      "target": "John",
+      "Predicted": "False"
+    },
+    {
+      "source": "Molly IV - 11",
+      "target": "Joseph",
+      "Predicted": "False"
+    },
+    {
+      "source": "Altima - 12",
+      "target": "Austin",
+      "Predicted": "False"
+    },
+    {
+      "source": "Richard",
+      "target": "Passat - 139",
+      "Predicted": "False"
+    },
+    {
+      "source": "Richard",
+      "target": "A4 - 25",
+      "Predicted": "False"
+    },
+    {
+      "source": "Richard",
+      "target": "Corolla - 93",
+      "Predicted": "False"
+    },
+    {
+      "source": "Coco Jr. - 14",
+      "target": "Patrick",
+      "Predicted": "False"
+    },
+    {
+      "source": "Santa Fe - 15",
+      "target": "Scott",
+      "Predicted": "False"
+    },
+    {
+      "source": "Molly II - 16",
+      "target": "Jonathon",
+      "Predicted": "False"
+    },
+    {
+      "source": "Molly II - 16",
+      "target": "Pamela",
+      "Predicted": "False"
+    },
+    {
+      "source": "Daisy Jr. - 17",
+      "target": "Megan",
+      "Predicted": "False"
+    },
+    {
+      "source": "Max II - 18",
+      "target": "Nicole",
+      "Predicted": "False"
+    },
+    {
+      "source": "Renee",
+      "target": "Rocky II - 55",
+      "Predicted": "False"
+    },
+    {
+      "source": "Lance",
+      "target": "Golf - 88",
+      "Predicted": "False"
+    },
+    {
+      "source": "Lance",
+      "target": "Cruze - 38",
+      "Predicted": "False"
+    },
+    {
+      "source": "Lance",
+      "target": "Mercedes-Benz E-Class - 61",
+      "Predicted": "False"
+    },
+    {
+      "source": "Spike IV - 21",
+      "target": "Ronald",
+      "Predicted": "False"
+    },
+    {
+      "source": "Spike IV - 21",
+      "target": "Rachael",
+      "Predicted": "False"
+    },
+    {
+      "source": "Spike IV - 21",
+      "target": "Kathy",
+      "Predicted": "False"
+    },
+    {
+      "source": "Todd",
+      "target": "Luke",
+      "Predicted": "False"
+    },
+    {
+      "source": "Todd",
+      "target": "Molly II - 102",
+      "Predicted": "False"
+    },
+    {
+      "source": "Jason",
+      "target": "Emily",
+      "Predicted": "False"
+    },
+    {
+      "source": "Jason",
+      "target": "Max III - 53",
+      "Predicted": "False"
+    },
+    {
+      "source": "Jason",
+      "target": "Pamela",
+      "Predicted": "False"
+    },
+    {
+      "source": "Emily",
+      "target": "Camry - 120",
+      "Predicted": "False"
+    },
+    {
+      "source": "Emily",
+      "target": "Buddy III - 49",
+      "Predicted": "False"
+    },
+    {
+      "source": "Emily",
+      "target": "Malibu - 76",
+      "Predicted": "False"
+    },
+    {
+      "source": "Emily",
+      "target": "BMW 3 Series - 103",
+      "Predicted": "False"
+    },
+    {
+      "source": "Emily",
+      "target": "Mustang - 108",
+      "Predicted": "False"
+    },
+    {
+      "source": "Christina",
+      "target": "Passat - 101",
+      "Predicted": "False"
+    },
+    {
+      "source": "Christina",
+      "target": "Molly II - 78",
+      "Predicted": "False"
+    },
+    {
+      "source": "Milo - 27",
+      "target": "Melissa",
+      "Predicted": "False"
+    },
+    {
+      "source": "Milo - 27",
+      "target": "Megan",
+      "Predicted": "False"
+    },
+    {
+      "source": "Milo - 27",
+      "target": "Kristen",
+      "Predicted": "False"
+    },
+    {
+      "source": "Daisy Jr. - 28",
+      "target": "Luke",
+      "Predicted": "False"
+    },
+    {
+      "source": "Molly II - 29",
+      "target": "Michelle",
+      "Predicted": "False"
+    },
+    {
+      "source": "Rachael",
+      "target": "Accord - 123",
+      "Predicted": "False"
+    },
+    {
+      "source": "Jeffrey",
+      "target": "Buddy II - 59",
+      "Predicted": "False"
+    },
+    {
+      "source": "Jeffrey",
+      "target": "Charlie - 125",
+      "Predicted": "False"
+    },
+    {
+      "source": "Joseph",
+      "target": "Spike Jr. - 46",
+      "Predicted": "False"
+    },
+    {
+      "source": "Joseph",
+      "target": "Accord - 34",
+      "Predicted": "False"
+    },
+    {
+      "source": "Joseph",
+      "target": "Susan",
+      "Predicted": "False"
+    },
+    {
+      "source": "Joseph",
+      "target": "Molly III - 60",
+      "Predicted": "False"
+    },
+    {
+      "source": "Joseph",
+      "target": "Mercedes-Benz E-Class - 104",
+      "Predicted": "False"
+    },
+    {
+      "source": "Marilyn",
+      "target": "Luke",
+      "Predicted": "False"
+    },
+    {
+      "source": "Marilyn",
+      "target": "Luna IV - 52",
+      "Predicted": "False"
+    },
+    {
+      "source": "Marilyn",
+      "target": "Mustang - 73",
+      "Predicted": "False"
+    },
+    {
+      "source": "Marilyn",
+      "target": "Golf - 142",
+      "Predicted": "False"
+    },
+    {
+      "source": "Daisy IV - 35",
+      "target": "Melissa",
+      "Predicted": "False"
+    },
+    {
+      "source": "Daisy IV - 35",
+      "target": "Robert",
+      "Predicted": "False"
+    },
+    {
+      "source": "Tracy",
+      "target": "Luna Jr. - 42",
+      "Predicted": "False"
+    },
+    {
+      "source": "Maxima - 37",
+      "target": "James",
+      "Predicted": "False"
+    },
+    {
+      "source": "Spike III - 39",
+      "target": "Margaret",
+      "Predicted": "False"
+    },
+    {
+      "source": "Camry - 40",
+      "target": "Kristen",
+      "Predicted": "False"
+    },
+    {
+      "source": "John",
+      "target": "Daisy - 77",
+      "Predicted": "False"
+    },
+    {
+      "source": "John",
+      "target": "X5 - 80",
+      "Predicted": "False"
+    },
+    {
+      "source": "John",
+      "target": "Michael",
+      "Predicted": "False"
+    },
+    {
+      "source": "Luna Jr. - 42",
+      "target": "Michael",
+      "Predicted": "False"
+    },
+    {
+      "source": "Passat - 44",
+      "target": "Bruce",
+      "Predicted": "False"
+    },
+    {
+      "source": "Molly IV - 45",
+      "target": "Pamela",
+      "Predicted": "False"
+    },
+    {
+      "source": "Spike Jr. - 46",
+      "target": "Nicole",
+      "Predicted": "False"
+    },
+    {
+      "source": "Scott",
+      "target": "Accord - 123",
+      "Predicted": "False"
+    },
+    {
+      "source": "Scott",
+      "target": "Buddy II - 59",
+      "Predicted": "False"
+    },
+    {
+      "source": "Scott",
+      "target": "Michael",
+      "Predicted": "False"
+    },
+    {
+      "source": "Scott",
+      "target": "Altima - 109",
+      "Predicted": "False"
+    },
+    {
+      "source": "Scott",
+      "target": "Sadie IV - 116",
+      "Predicted": "False"
+    },
+    {
+      "source": "Scott",
+      "target": "Molly III - 60",
+      "Predicted": "False"
+    },
+    {
+      "source": "Susan",
+      "target": "Buddy II - 84",
+      "Predicted": "False"
+    },
+    {
+      "source": "Susan",
+      "target": "Santa Fe - 146",
+      "Predicted": "False"
+    },
+    {
+      "source": "Spike Jr. - 50",
+      "target": "Terrance",
+      "Predicted": "False"
+    },
+    {
+      "source": "Spike Jr. - 50",
+      "target": "Aaron",
+      "Predicted": "False"
+    },
+    {
+      "source": "Corolla - 51",
+      "target": "Denise",
+      "Predicted": "False"
+    },
+    {
+      "source": "Rocky IV - 54",
+      "target": "Pamela",
+      "Predicted": "False"
+    },
+    {
+      "source": "Rocky IV - 54",
+      "target": "Rebecca",
+      "Predicted": "False"
+    },
+    {
+      "source": "Rocky II - 55",
+      "target": "April",
+      "Predicted": "False"
+    },
+    {
+      "source": "X5 - 56",
+      "target": "Margaret",
+      "Predicted": "False"
+    },
+    {
+      "source": "Molly II - 57",
+      "target": "Bruce",
+      "Predicted": "False"
+    },
+    {
+      "source": "Charlie II - 58",
+      "target": "Kelly",
+      "Predicted": "False"
+    },
+    {
+      "source": "Molly III - 60",
+      "target": "Linda",
+      "Predicted": "False"
+    },
+    {
+      "source": "Mercedes-Benz E-Class - 61",
+      "target": "Kelly",
+      "Predicted": "False"
+    },
+    {
+      "source": "Max - 62",
+      "target": "Robert",
+      "Predicted": "False"
+    },
+    {
+      "source": "Max - 62",
+      "target": "James",
+      "Predicted": "False"
+    },
+    {
+      "source": "BMW 5 Series - 63",
+      "target": "Denise",
+      "Predicted": "False"
+    },
+    {
+      "source": "A4 - 64",
+      "target": "James",
+      "Predicted": "False"
+    },
+    {
+      "source": "A4 - 64",
+      "target": "Audrey",
+      "Predicted": "False"
+    },
+    {
+      "source": "F-150 - 65",
+      "target": "Bruce",
+      "Predicted": "False"
+    },
+    {
+      "source": "Patrick",
+      "target": "Golf - 142",
+      "Predicted": "False"
+    },
+    {
+      "source": "Patrick",
+      "target": "Golf - 88",
+      "Predicted": "False"
+    },
+    {
+      "source": "Melissa",
+      "target": "BMW 3 Series - 103",
+      "Predicted": "False"
+    },
+    {
+      "source": "Melissa",
+      "target": "Santa Fe - 143",
+      "Predicted": "False"
+    },
+    {
+      "source": "Robert",
+      "target": "Denise",
+      "Predicted": "False"
+    },
+    {
+      "source": "Robert",
+      "target": "BMW 3 Series - 132",
+      "Predicted": "False"
+    },
+    {
+      "source": "Milo III - 70",
+      "target": "Kathy",
+      "Predicted": "False"
+    },
+    {
+      "source": "Accord - 71",
+      "target": "Andrew",
+      "Predicted": "False"
+    },
+    {
+      "source": "Accord - 72",
+      "target": "Nicole",
+      "Predicted": "False"
+    },
+    {
+      "source": "BMW 3 Series - 74",
+      "target": "Nicole",
+      "Predicted": "False"
+    },
+    {
+      "source": "James",
+      "target": "Altima - 91",
+      "Predicted": "False"
+    },
+    {
+      "source": "James",
+      "target": "Luna II - 96",
+      "Predicted": "False"
+    },
+    {
+      "source": "James",
+      "target": "Denise",
+      "Predicted": "False"
+    },
+    {
+      "source": "James",
+      "target": "Golf - 145",
+      "Predicted": "False"
+    },
+    {
+      "source": "Rebecca",
+      "target": "BMW 5 Series - 119",
+      "Predicted": "False"
+    },
+    {
+      "source": "Rebecca",
+      "target": "Chris",
+      "Predicted": "False"
+    },
+    {
+      "source": "William",
+      "target": "Golf - 142",
+      "Predicted": "False"
+    },
+    {
+      "source": "William",
+      "target": "Malibu - 134",
+      "Predicted": "False"
+    },
+    {
+      "source": "Luna II - 82",
+      "target": "Ronald",
+      "Predicted": "False"
+    },
+    {
+      "source": "Luna II - 82",
+      "target": "Michelle",
+      "Predicted": "False"
+    },
+    {
+      "source": "Coco IV - 83",
+      "target": "April",
+      "Predicted": "False"
+    },
+    {
+      "source": "Andrew",
+      "target": "Golf - 110",
+      "Predicted": "False"
+    },
+    {
+      "source": "Austin",
+      "target": "Altima - 91",
+      "Predicted": "False"
+    },
+    {
+      "source": "Austin",
+      "target": "Mercedes-Benz C-Class - 92",
+      "Predicted": "False"
+    },
+    {
+      "source": "Austin",
+      "target": "Coco Jr. - 133",
+      "Predicted": "False"
+    },
+    {
+      "source": "Austin",
+      "target": "Camry - 136",
+      "Predicted": "False"
+    },
+    {
+      "source": "Austin",
+      "target": "BMW 3 Series - 141",
+      "Predicted": "False"
+    },
+    {
+      "source": "Denise",
+      "target": "Altima - 100",
+      "Predicted": "False"
+    },
+    {
+      "source": "F-150 - 90",
+      "target": "Pamela",
+      "Predicted": "False"
+    },
+    {
+      "source": "F-150 - 90",
+      "target": "Jonathon",
+      "Predicted": "False"
+    },
+    {
+      "source": "Pamela",
+      "target": "Daisy II - 111",
+      "Predicted": "False"
+    },
+    {
+      "source": "BMW 5 Series - 99",
+      "target": "April",
+      "Predicted": "False"
+    },
+    {
+      "source": "Passat - 101",
+      "target": "Kristen",
+      "Predicted": "False"
+    },
+    {
+      "source": "Molly II - 102",
+      "target": "Margaret",
+      "Predicted": "False"
+    },
+    {
+      "source": "Terrance",
+      "target": "Malibu - 134",
+      "Predicted": "False"
+    },
+    {
+      "source": "April",
+      "target": "Michelle",
+      "Predicted": "False"
+    },
+    {
+      "source": "April",
+      "target": "Tucson - 144",
+      "Predicted": "False"
+    },
+    {
+      "source": "Aaron",
+      "target": "Margaret",
+      "Predicted": "False"
+    },
+    {
+      "source": "Altima - 109",
+      "target": "Bruce",
+      "Predicted": "False"
+    },
+    {
+      "source": "Golf - 110",
+      "target": "Kristen",
+      "Predicted": "False"
+    },
+    {
+      "source": "Kristen",
+      "target": "Luna III - 138",
+      "Predicted": "False"
+    },
+    {
+      "source": "Kristen",
+      "target": "Passat - 139",
+      "Predicted": "False"
+    },
+    {
+      "source": "Kristen",
+      "target": "Passat - 149",
+      "Predicted": "False"
+    },
+    {
+      "source": "Maxima - 114",
+      "target": "Chris",
+      "Predicted": "False"
+    },
+    {
+      "source": "Bruce",
+      "target": "Spike III - 130",
+      "Predicted": "False"
+    }
+  ]
+}
